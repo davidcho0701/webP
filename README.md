@@ -4,12 +4,12 @@
   - 리스트 만들기
 
 2. Week2 <br>
-  2-1. 표 만들기
+  2-1. 표 만들기<br>
   2-2. check box, radio button 만들기
     
 3. Week 3 <br>
-  3-1. CSS3 스타일링 (background-color)
-  3-2. combo box 만들기
+  3-1. CSS3 스타일링 (background-color)<br>
+  3-2. combo box 만들기<br>
   3-3. CSS3 review (박스 모델, 요소 배치)
 
 4. Week 4
