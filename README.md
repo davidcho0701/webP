@@ -22,3 +22,21 @@
   - 과제2
 
 7. Week 7
+  -  JavaScript 활용하여 시계 구현
+
+8. Week 8 (Mid Term Exam)
+
+9. Week 9
+  -
+10. Week 10
+
+11. Week 11
+
+12. Week 12
+
+13. Week 13
+
+14. Week 14
+
+    
+15. Week 15 (Final Exam)
